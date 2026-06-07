@@ -98,3 +98,6 @@ as mensagens de alerta
 
 Link Simulação Wokwi:
 https://wokwi.com/projects/465824930229694465
+
+Link Vídeo do projeto:
+https://youtu.be/raK3OyoT49M
