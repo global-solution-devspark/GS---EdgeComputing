@@ -89,6 +89,7 @@ Estrutura do Circuito:
 Instruções de Execução:
 
 - Entrar no link do wokwi
+- Instalar o "DHT sensor library" (caso não esteja instalado)
 - Iniciar a simulação
 - Modificar a temperatura e a umidade para testar
 os diferentes estados do sistema
