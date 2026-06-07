@@ -15,20 +15,18 @@ A plataforma é capaz de integrar diferentes fontes de informação para monitor
 identificar problemas ambientais e gerar previsões que contribuam para um desenvolvimento urbano mais sustentável e eficiente.
 
 Como parte da solução proposta, foi desenvolvido um protótipo utilizando Arduino Uno e um sensor DHT22, simulando uma rede de sensores ambientais 
-que poderiam ser instalados em diferentes regiões da cidade. Esses sensores têm a função de coletar dados de temperatura e umidade do ar para auxiliar 
-na identificação de possíveis ilhas de calor urbanas, um dos fenômenos monitorados pelo GeoVision. Dessa forma, a solução demonstra como sensores distribuídos
-pela cidade podem complementar os dados obtidos por satélites e sistemas de monitoramento espacial, tornando as análises urbanas mais precisas e eficientes.
+que poderiam ser instalados em satélites para coletar dados de temperatura e umidade do ar para auxiliar na identificação de possíveis ilhas de calor urbanas, 
+um dos fenômenos monitorados pelo GeoVision. 
 
 
 Objetivo da Solução:
 
-O objetivo do projeto é demonstrar como dispositivos de Edge Computing podem realizar a coleta e o processamento local de dados ambientais para auxiliar no monitoramento urbano.
+O objetivo do projeto é demonstrar como dispositivos de Edge Computing podem realizar a coleta e o processamento de dados ambientais para auxiliar no monitoramento urbano.
 A solução busca:
 
 - Monitorar temperatura e umidade do ar em tempo real;
 - Detectar condições favoráveis à formação de ilhas de calor;
 - Gerar alertas visuais instantâneos;
-- Simular a integração de sensores urbanos à plataforma GeoVision;
 - Apoiar o planejamento urbano baseado em dados ambientais.
 
 
